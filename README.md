@@ -25,7 +25,7 @@ A simple Python-based GUI project that uses OpenCV to recognize faces and mark a
 ---
 
 ## ⚠️ Notes
-- `trainer.yml` file is large. [📥 Download here](YOUR_GOOGLE_DRIVE_LINK)
+- `trainer.yml` file is large. [📥 Download here](https://drive.google.com/file/d/1KckoCLuYe8jFUmRLX3fe8tH3iousvgyM/view?usp=drive_link)
 - Performance depends on system specs (recommended: 8GB RAM).
 - Works best with clear, front-facing images.
 
